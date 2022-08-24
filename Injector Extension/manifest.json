@@ -1,0 +1,18 @@
+{
+    "name": "Injector",
+    "description": "Inject Your Custom JavaScript And CSS To Any Website.",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.youtube.com/*",
+                "https://*.google.com/*",
+                "https://*.microsoft.com/*"
+            ],
+            "js": [
+                "app.js"
+            ]
+        }
+    ]
+}
