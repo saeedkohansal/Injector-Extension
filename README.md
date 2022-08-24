@@ -1,4 +1,4 @@
-# Injector-Extension
+# Injector Chrome Extension
 
 _How To Inject JavaScript And CSS Into Any Website - Build A Chrome Extension From Scratch_
 
@@ -32,3 +32,4 @@ bc1qerc5ev074cqknu9nz589w4vjf5ecmhuc2df83h
 🥈 My Public Address To Receive ETH • Ethereum
 
 0x566A47B9731209A5144336D274D44224bfb9C0ea
+
