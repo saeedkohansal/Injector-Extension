@@ -6,10 +6,10 @@ _How To Inject JavaScript And CSS Into Any Website - Build A Chrome Extension Fr
 
 In this video, I'm gonna build a chrome extension to inject JavaScript and CSS into any website, By that extension, you can inject your custom JavaScript or CSS codes to a single website or multiple websites, By The JavaScript and CSS Injection you can change any website style, theme, fonts, colors and more... to your favorite look also you can manipulate HTML DOM to create, change, remove all of the elements in a website, as you can see Now I'm using my custom version of YouTube, For example, you can create a complete theme and use that website with your theme.
 
-## Video Tutorial [ How To Create Extension From Scratch ]
+## Video Tutorial [ How To Create Chrome Extension From Scratch ]
 [https://youtu.be/mgFo3fxuUyA](https://youtu.be/mgFo3fxuUyA)
 
- 
+ 
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
