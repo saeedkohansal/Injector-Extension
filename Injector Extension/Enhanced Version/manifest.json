@@ -1,6 +1,6 @@
 {
     "name": "Injector",
-    "description": "Inject Your Custom Inline JavaScript And Script Src Link Any Website.",
+    "description": "Inject Your Custom Inline JavaScript And Script Src Link Into Any Website.",
     "manifest_version": 3,
     "version": "0.0.0.1",
     "content_scripts": [
