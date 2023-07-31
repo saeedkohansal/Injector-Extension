@@ -1,26 +1,35 @@
 A Stack Overflow excellent answer (Great thanks to Rob W and wOxxOm)
 https://stackoverflow.com/questions/9515704/access-variables-and-functions-defined-in-page-context-using-a-content-script/9517879#9517879
 
-Content scripts
+Manifest - Content Security Policy (MDN - Mozilla Developer Network)
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/content_security_policy
+
+Manifest - Content Security Policy (Chrome Developers)
+https://developer.chrome.com/docs/extensions/mv3/manifest/content_security_policy/
+
+Content scripts (Chrome Developers)
 https://developer.chrome.com/docs/extensions/mv3/content_scripts/
 
-Content scripts - Run time
+Content scripts - Run time (Chrome Developers)
 https://developer.chrome.com/docs/extensions/mv3/content_scripts/#run_time
 
-chrome.extensionTypes - RunAt
+chrome.extensionTypes - RunAt (Chrome Developers)
 https://developer.chrome.com/docs/extensions/reference/extensionTypes/#type-RunAt
 
-Content scripts - Specify frames
+Content scripts - Specify frames (Chrome Developers)
 https://developer.chrome.com/docs/extensions/mv3/content_scripts/#frames
 
-chrome.scripting
+chrome.scripting (Chrome Developers)
 https://developer.chrome.com/docs/extensions/reference/scripting/
 
-chrome.scripting.executeScript
+chrome.scripting.executeScript (Chrome Developers)
 https://developer.chrome.com/docs/extensions/reference/scripting/#method-executeScript
 
-chrome.scripting.registerContentScripts
+chrome.scripting.registerContentScripts (Chrome Developers)
 https://developer.chrome.com/docs/extensions/reference/scripting/#method-registerContentScripts
 
-chrome.scripting.ExecutionWorld
+chrome.scripting.ExecutionWorld (Chrome Developers)
 https://developer.chrome.com/docs/extensions/reference/scripting/#type-ExecutionWorld
+
+chrome.scripting.ExecutionWorld (MDN - Mozilla Developer Network)
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/scripting/ExecutionWorld
