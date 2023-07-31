@@ -13,11 +13,17 @@ https://developer.chrome.com/docs/extensions/mv3/content_scripts/
 Content scripts - Run time (Chrome Developers)
 https://developer.chrome.com/docs/extensions/mv3/content_scripts/#run_time
 
-chrome.extensionTypes - RunAt (Chrome Developers)
-https://developer.chrome.com/docs/extensions/reference/extensionTypes/#type-RunAt
-
 Content scripts - Specify frames (Chrome Developers)
 https://developer.chrome.com/docs/extensions/mv3/content_scripts/#frames
+
+Content scripts - Inject scripts (Chrome Developers)
+https://developer.chrome.com/docs/extensions/mv3/content_scripts/#functionality
+
+Content scripts - Work in isolated worlds (Chrome Developers)
+https://developer.chrome.com/docs/extensions/mv3/content_scripts/#isolated_world
+
+chrome.extensionTypes - RunAt (Chrome Developers)
+https://developer.chrome.com/docs/extensions/reference/extensionTypes/#type-RunAt
 
 chrome.scripting (Chrome Developers)
 https://developer.chrome.com/docs/extensions/reference/scripting/
