@@ -25,6 +25,9 @@ https://developer.chrome.com/docs/extensions/mv3/content_scripts/#isolated_world
 chrome.extensionTypes - RunAt (Chrome Developers)
 https://developer.chrome.com/docs/extensions/reference/extensionTypes/#type-RunAt
 
+chrome.extensionTypes - InjectDetails (Chrome Developers)
+https://developer.chrome.com/docs/extensions/reference/extensionTypes/#type-InjectDetails
+
 chrome.scripting (Chrome Developers)
 https://developer.chrome.com/docs/extensions/reference/scripting/
 
