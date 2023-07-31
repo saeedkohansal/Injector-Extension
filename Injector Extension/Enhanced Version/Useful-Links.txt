@@ -1,0 +1,26 @@
+A Stack Overflow excellent answer (Great thanks to Rob W and wOxxOm)
+https://stackoverflow.com/questions/9515704/access-variables-and-functions-defined-in-page-context-using-a-content-script/9517879#9517879
+
+Content scripts
+https://developer.chrome.com/docs/extensions/mv3/content_scripts/
+
+Content scripts - Run time
+https://developer.chrome.com/docs/extensions/mv3/content_scripts/#run_time
+
+chrome.extensionTypes - RunAt
+https://developer.chrome.com/docs/extensions/reference/extensionTypes/#type-RunAt
+
+Content scripts - Specify frames
+https://developer.chrome.com/docs/extensions/mv3/content_scripts/#frames
+
+chrome.scripting
+https://developer.chrome.com/docs/extensions/reference/scripting/
+
+chrome.scripting.executeScript
+https://developer.chrome.com/docs/extensions/reference/scripting/#method-executeScript
+
+chrome.scripting.registerContentScripts
+https://developer.chrome.com/docs/extensions/reference/scripting/#method-registerContentScripts
+
+chrome.scripting.ExecutionWorld
+https://developer.chrome.com/docs/extensions/reference/scripting/#type-ExecutionWorld
