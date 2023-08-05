@@ -10,6 +10,9 @@ In this video, I'm gonna build a chrome extension to inject JavaScript and CSS i
 ## Video Tutorial [ How To Create Chrome Extension From Scratch ]
 [https://youtu.be/mgFo3fxuUyA](https://youtu.be/mgFo3fxuUyA)
 
+## Video Tutorial [ How To Inject Inline JavaScript And Script Src Link ]
+[https://youtu.be/5SuWCBFPwgs](https://youtu.be/5SuWCBFPwgs)
+
  
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
